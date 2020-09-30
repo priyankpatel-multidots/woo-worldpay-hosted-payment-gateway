@@ -2,8 +2,8 @@
 Contributors: priyankkpatel, aniketpatel
 Tags: payment, admin, administration, checkout, worldpay, card payment, woocommerce payment gateway, pay br card, e-payment, e-commerce
 Requires at least: 4.5
-Tested up to: 5.1
-Stable tag: 1.0 
+Tested up to: 5.1.1
+Stable tag: 1.0.1 
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -15,7 +15,7 @@ Custom worldpay payment gateway for your woocommerce based site.
 Easy plugin to add worldpay hosted payment support in your woocommerce based site. Users now will be given option to pay by card on the checkout page.
 You can add information of your worldpay account from dashboard. To do so please follow these simple steps.
 Step 1: Go to Admin dashboard > WooCommerce > Settings > Payments > Custom Worldpay.
-Step 2: Please provide all the information in the givenm fields.
+Step 2: Please provide all the information in the givenm fields...
 
 Please refer this link for more information.
 http://support.worldpay.com/support/kb/gg/corporate-gateway-guide/content/hostedintegration/quickstart.htm
@@ -24,10 +24,10 @@ http://support.worldpay.com/support/kb/gg/corporate-gateway-guide/content/hosted
 
 = Using The WordPress Dashboard =
 
-1. Navigate to the 'Add New' in the plugins dashboard
-2. Search for 'WorldPay Hosted Payment Gateway'
-3. Click 'Install Now'
-4. Activate the plugin on the Plugin dashboard
+1. Navigate to the 'Add New' in the plugins dashboard.
+2. Search for 'WorldPay Hosted Payment Gateway'.
+3. Click 'Install Now'.
+4. Activate the plugin on the Plugin dashboard.
 
 = Uploading in WordPress Dashboard =
 
