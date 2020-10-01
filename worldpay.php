@@ -3,7 +3,7 @@
  * Plugin Name: WorldPay Hosted Payment Gateway
  * Plugin URI: #
  * Description: WooCommerce custom payment gateway integration on cloudways.
- * Version: 1.0.10
+ * Version: 1.0.11
  * Author: priyankkpatel
  * Author URI: https://profiles.wordpress.org/priyankkpatel
  * Text Domain: woo-worldpay-hosted-payment-gateway
