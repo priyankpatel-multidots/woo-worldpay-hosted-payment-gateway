@@ -16,7 +16,6 @@ Easy plugin to add worldpay hosted payment support in your woocommerce based sit
 You can add information of your worldpay account from dashboard. To do so please follow these simple steps.
 Step 1: Go to Admin dashboard > WooCommerce > Settings > Payments > Custom Worldpay.
 Step 2: Please provide all the information in the givenm fields.
-Step 3: enjoy it.
 
 Please refer this link for more information.
 http://support.worldpay.com/support/kb/gg/corporate-gateway-guide/content/hostedintegration/quickstart.htm
