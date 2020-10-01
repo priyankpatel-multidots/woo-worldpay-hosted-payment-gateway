@@ -3,7 +3,7 @@ Contributors: priyankkpatel, aniketpatel
 Tags: payment, admin, administration, checkout, worldpay, card payment, woocommerce payment gateway, pay br card, e-payment, e-commerce
 Requires at least: 4.5
 Tested up to: 5.5.1
-Stable tag: 1.0.12
+Stable tag: 1.0.13
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
