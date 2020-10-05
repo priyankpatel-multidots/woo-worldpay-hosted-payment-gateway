@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: WordPress plugin deploy
-      uses: 10up/action-wordpress-plugin-deploy@master
+      uses: priyankpatel-multidots/action-wordpress-plugin-deploy@master
       env:
         SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
         SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
