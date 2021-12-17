@@ -57,5 +57,5 @@ Please text on email(bits.13592@gmail.com) for any kind of issues.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.20 =
 Initial release
